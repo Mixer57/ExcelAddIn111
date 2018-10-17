@@ -198,6 +198,10 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ConsoleApp1.exe" />
+    <Content Include="ConsoleApp2.exe" />
+    <Content Include="Excel.run.exe" />
+    <Content Include="Excel.run.pdb" />
     <Content Include="ExcelAddIn111 %282%29.DLL" />
     <Content Include="ExcelAddIn111.DLL" />
   </ItemGroup>
